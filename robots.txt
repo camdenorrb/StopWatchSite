@@ -1,0 +1,3 @@
+# Disallow robots access to the full website until it’s more developed.
+User-agent: *
+Disallow: /
